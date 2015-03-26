@@ -365,6 +365,9 @@ header h1 a img {
     top: 50%;
     margin-top: -31px;
 }
+#navigation {
+position: fixed;
+}
 
 /**Content**/
 
@@ -551,7 +554,7 @@ a.gal:hover img {
 
 footer {
 	display: block;
-    padding: 0px 0 60px;
+    padding: 0px 0 30px;
     font-size: 14px;
     color: #aaa;
     line-height: 18px;
